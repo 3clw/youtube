@@ -1,0 +1,55 @@
+<style>
+
+.video-title{
+    
+    font-size: 18px;
+    font-weight:bold;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 0;
+
+}
+.video-views{
+    
+     font-size:14px;
+     color: grey;
+     margin-top:7;
+
+
+}
+.author{
+color: gray;
+
+font-size: 14px;
+margin-top: 20px;
+
+}
+.description{
+
+font-size:14px;
+margin-top: 10;
+width:280px;
+color: gray;
+margin-bottom:100px;
+
+}
+.shopping{
+font-size: 14px;
+background-color: rgb(228, 13, 13);
+color:white;
+text-align:center;
+padding-top: 14px;
+padding-bottom: 14px;
+
+
+
+}
+.shop{
+
+cursor: pointer;
+}
+.shop:hover{
+    text-decoration: underline;
+
+}
+</style>
